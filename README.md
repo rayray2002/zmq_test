@@ -5,11 +5,12 @@
 Mac OSX:
 
 * `brew install zeromq`
-* [bulid step 2](https://github.com/zeromq/cppzmq#build-instructions)
-* download and unzip the lib, cd to directory
-```
-mkdir build
-cd build
-cmake ..
-sudo make -j4 install
-```
+* [bulid](https://github.com/zeromq/cppzmq#build-instructions) step 2:
+
+    download and unzip the lib, cd to directory
+    ```
+    mkdir build
+    cd build
+    cmake ..
+    sudo make -j4 install
+    ```
